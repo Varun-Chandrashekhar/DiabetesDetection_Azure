@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'diabetesdetector'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_192f15be83f647fba96cf63bb91a2680 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2d04fbb0da184033b249dfb7c1bcc988 }}
